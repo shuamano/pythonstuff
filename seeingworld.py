@@ -1,0 +1,10 @@
+places = ['isreal', 'romania', 'Sokhalin', 'london', 'switzerland']
+print(places)
+print(sorted(places))
+print(places)
+places.reverse()
+print(places)
+places.reverse()
+print(places)
+places.sort()
+print(places)
